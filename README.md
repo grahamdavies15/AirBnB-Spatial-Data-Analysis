@@ -7,15 +7,19 @@ In this part of the assignment, I analyse the locations of the listings in two w
 Examples of methods used:
 ### Kernal density smoothing.
 ![image](https://github.com/grahamdavies15/AirBnB-Spatial-Data-Analysis/blob/main/images/kernal62.png)
+![image](https://github.com/grahamdavies15/AirBnB-Spatial-Data-Analysis/blob/main/images/kernal84.png)
 
 ### G Function
 ![image](https://github.com/grahamdavies15/AirBnB-Spatial-Data-Analysis/blob/main/images/gFunc62.png)
+![image](https://github.com/grahamdavies15/AirBnB-Spatial-Data-Analysis/blob/main/images/gFunc84.png)
 
 ### F Function
 ![image](https://github.com/grahamdavies15/AirBnB-Spatial-Data-Analysis/blob/main/images/fFunc62.png)
+![image](https://github.com/grahamdavies15/AirBnB-Spatial-Data-Analysis/blob/main/images/fFunc84.png)
 
 ### Ripley's K Function
 ![image](https://github.com/grahamdavies15/AirBnB-Spatial-Data-Analysis/blob/main/images/kFunc62.png)
+![image](https://github.com/grahamdavies15/AirBnB-Spatial-Data-Analysis/blob/main/images/kFunc84.png)
 
 
 
