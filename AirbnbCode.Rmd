@@ -2,7 +2,7 @@
 title: "ASDA Project 2"
 author: "Graham Davies"
 date: "27/10/2021"
-output: pdf_document
+output: rmarkdown::github_document
 ---
 
 ```{r setup, include=FALSE}
