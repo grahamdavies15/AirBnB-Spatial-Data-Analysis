@@ -6,7 +6,7 @@ In this part of the assignment, I analyse the locations of the listings in two w
 
 Examples of methods used:
 ### Kernal density smoothing.
-![lagPredicted](https://github.com/grahamdavies15/AirBnB-Spatial-Data-Analysis/images/lagPredicted)
+![image](https://github.com/grahamdavies15/AirBnB-Spatial-Data-Analysis/blob/main/images/lagPredicted.png)
 
 
 Spatial Lattice Data Analysis:
