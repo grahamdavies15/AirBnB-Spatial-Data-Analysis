@@ -2,7 +2,7 @@
 An applied spatial data analysis project for AirBnB dataset around Cape Town.
 
 ## Spatial Point Pattern Analysis
-In this part of the assignment, I analyse the locations of the listings in two wards compare the ward level information using methods such as quadrat counts, spatial point pattern models etc.
+In this part of the assignment, I analyse the locations of the listings in two wards and compare the ward-level information using methods such as quadrat counts, spatial point pattern models etc.
 
 Examples of methods used:
 ### Kernal density smoothing.
